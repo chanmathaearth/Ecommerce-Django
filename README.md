@@ -1,6 +1,6 @@
 # 👟 Studforce — E-Commerce Website for Football Boots
 
-**Studforce** is a modern and responsive E-Commerce web application for buying football boots. It offers a seamless shopping experience with powerful admin control, real-time updates, and a beautiful user interface built with Tailwind and Vue.js.
+**Studforce** is a modern and responsive E-Commerce web application for buying football boots. beautiful user interface built with Tailwind and Vue.js Api Handle with DjangoRestAPi.
 
 ---
 
